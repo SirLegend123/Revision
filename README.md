@@ -2,7 +2,7 @@
 
 Calm GCSE revision apps, one per subject, joined together by a landing page. Everything is plain web pages, so it runs in any modern browser with nothing to install.
 
-**Open it:** https://sirlegend123.github.io/revision/
+**Open it:** https://sirlegend123.github.io/Revision/
 
 ## What's here
 
